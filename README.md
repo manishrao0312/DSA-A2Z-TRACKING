@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/manishrao0312/DSA-A2Z-TRACKING/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/manishrao0312/DSA-A2Z-TRACKING/tree/master/0169-majority-element) |
 | [0485-max-consecutive-ones](https://github.com/manishrao0312/DSA-A2Z-TRACKING/tree/master/0485-max-consecutive-ones) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/manishrao0312/DSA-A2Z-TRACKING/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/manishrao0312/DSA-A2Z-TRACKING/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/manishrao0312/DSA-A2Z-TRACKING/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 ## Bit Manipulation
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/manishrao0312/DSA-A2Z-TRACKING/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/manishrao0312/DSA-A2Z-TRACKING/tree/master/0169-majority-element) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/manishrao0312/DSA-A2Z-TRACKING/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -65,4 +67,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/manishrao0312/DSA-A2Z-TRACKING/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+## Greedy
+|  |
+| ------- |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/manishrao0312/DSA-A2Z-TRACKING/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 <!---LeetCode Topics End-->
