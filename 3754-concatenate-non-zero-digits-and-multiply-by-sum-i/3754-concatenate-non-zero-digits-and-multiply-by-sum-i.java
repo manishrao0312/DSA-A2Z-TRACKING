@@ -1,15 +1,19 @@
 class Solution {
     public long sumAndMultiply(int n) {
-        int p = 1;
-        int x = 0, s = 0;
-        for (; n > 0; n /= 10) {
-            int v = n % 10;
-            if (v != 0) {
-                s += v;
-                x += p * v;
-                p *= 10;
+        String s = String.valueOf(n);
+
+        long x = 0;
+        long sum = 0;
+
+        for (char c : s.toCharArray()) {
+            int digit = c - '0';
+
+            if (digit != 0) {
+                x = x * 10 + digit;
+                sum += digit;
             }
         }
-        return 1L * x * s;
+
+        return x * sum;
     }
 }
