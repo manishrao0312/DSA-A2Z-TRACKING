@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/manishrao0312/DSA-A2Z-TRACKING/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/manishrao0312/DSA-A2Z-TRACKING/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/manishrao0312/DSA-A2Z-TRACKING/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/manishrao0312/DSA-A2Z-TRACKING/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/manishrao0312/DSA-A2Z-TRACKING/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/manishrao0312/DSA-A2Z-TRACKING/tree/master/0486-predict-the-winner) |
 | [0560-subarray-sum-equals-k](https://github.com/manishrao0312/DSA-A2Z-TRACKING/tree/master/0560-subarray-sum-equals-k) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/manishrao0312/DSA-A2Z-TRACKING/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/manishrao0312/DSA-A2Z-TRACKING/tree/master/0268-missing-number) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/manishrao0312/DSA-A2Z-TRACKING/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/manishrao0312/DSA-A2Z-TRACKING/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Hash Table
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/manishrao0312/DSA-A2Z-TRACKING/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/manishrao0312/DSA-A2Z-TRACKING/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/manishrao0312/DSA-A2Z-TRACKING/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/manishrao0312/DSA-A2Z-TRACKING/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/manishrao0312/DSA-A2Z-TRACKING/tree/master/0560-subarray-sum-equals-k) |
 | [1331-rank-transform-of-an-array](https://github.com/manishrao0312/DSA-A2Z-TRACKING/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/manishrao0312/DSA-A2Z-TRACKING/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -91,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/manishrao0312/DSA-A2Z-TRACKING/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/manishrao0312/DSA-A2Z-TRACKING/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/manishrao0312/DSA-A2Z-TRACKING/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/manishrao0312/DSA-A2Z-TRACKING/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/manishrao0312/DSA-A2Z-TRACKING/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/manishrao0312/DSA-A2Z-TRACKING/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/manishrao0312/DSA-A2Z-TRACKING/tree/master/1331-rank-transform-of-an-array) |
@@ -166,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/manishrao0312/DSA-A2Z-TRACKING/tree/master/0048-rotate-image) |
+| [0268-missing-number](https://github.com/manishrao0312/DSA-A2Z-TRACKING/tree/master/0268-missing-number) |
 | [0486-predict-the-winner](https://github.com/manishrao0312/DSA-A2Z-TRACKING/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/manishrao0312/DSA-A2Z-TRACKING/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/manishrao0312/DSA-A2Z-TRACKING/tree/master/0877-stone-game) |
@@ -223,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/manishrao0312/DSA-A2Z-TRACKING/tree/master/0268-missing-number) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/manishrao0312/DSA-A2Z-TRACKING/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/manishrao0312/DSA-A2Z-TRACKING/tree/master/3312-sorted-gcd-pair-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/manishrao0312/DSA-A2Z-TRACKING/tree/master/3501-maximize-active-section-with-trade-ii) |
