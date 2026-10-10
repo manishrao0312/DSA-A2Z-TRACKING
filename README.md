@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/manishrao0312/DSA-A2Z-TRACKING/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/manishrao0312/DSA-A2Z-TRACKING/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/manishrao0312/DSA-A2Z-TRACKING/tree/master/0268-missing-number) |
+| [0334-increasing-triplet-subsequence](https://github.com/manishrao0312/DSA-A2Z-TRACKING/tree/master/0334-increasing-triplet-subsequence) |
 | [0485-max-consecutive-ones](https://github.com/manishrao0312/DSA-A2Z-TRACKING/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/manishrao0312/DSA-A2Z-TRACKING/tree/master/0486-predict-the-winner) |
 | [0560-subarray-sum-equals-k](https://github.com/manishrao0312/DSA-A2Z-TRACKING/tree/master/0560-subarray-sum-equals-k) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/manishrao0312/DSA-A2Z-TRACKING/tree/master/0334-increasing-triplet-subsequence) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/manishrao0312/DSA-A2Z-TRACKING/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/manishrao0312/DSA-A2Z-TRACKING/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/manishrao0312/DSA-A2Z-TRACKING/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -357,4 +359,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/manishrao0312/DSA-A2Z-TRACKING/tree/master/0207-course-schedule) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/manishrao0312/DSA-A2Z-TRACKING/tree/master/0334-increasing-triplet-subsequence) |
 <!---LeetCode Topics End-->
