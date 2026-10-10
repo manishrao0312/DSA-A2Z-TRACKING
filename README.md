@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/manishrao0312/DSA-A2Z-TRACKING/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/manishrao0312/DSA-A2Z-TRACKING/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/manishrao0312/DSA-A2Z-TRACKING/tree/master/0283-move-zeroes) |
+| [0392-is-subsequence](https://github.com/manishrao0312/DSA-A2Z-TRACKING/tree/master/0392-is-subsequence) |
 | [1768-merge-strings-alternately](https://github.com/manishrao0312/DSA-A2Z-TRACKING/tree/master/1768-merge-strings-alternately) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/manishrao0312/DSA-A2Z-TRACKING/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/manishrao0312/DSA-A2Z-TRACKING/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/manishrao0312/DSA-A2Z-TRACKING/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/manishrao0312/DSA-A2Z-TRACKING/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/manishrao0312/DSA-A2Z-TRACKING/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0392-is-subsequence](https://github.com/manishrao0312/DSA-A2Z-TRACKING/tree/master/0392-is-subsequence) |
 | [0486-predict-the-winner](https://github.com/manishrao0312/DSA-A2Z-TRACKING/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/manishrao0312/DSA-A2Z-TRACKING/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/manishrao0312/DSA-A2Z-TRACKING/tree/master/1140-stone-game-ii) |
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/manishrao0312/DSA-A2Z-TRACKING/tree/master/0049-group-anagrams) |
+| [0392-is-subsequence](https://github.com/manishrao0312/DSA-A2Z-TRACKING/tree/master/0392-is-subsequence) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/manishrao0312/DSA-A2Z-TRACKING/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/manishrao0312/DSA-A2Z-TRACKING/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1768-merge-strings-alternately](https://github.com/manishrao0312/DSA-A2Z-TRACKING/tree/master/1768-merge-strings-alternately) |
