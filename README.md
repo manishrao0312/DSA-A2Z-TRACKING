@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/manishrao0312/DSA-A2Z-TRACKING/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/manishrao0312/DSA-A2Z-TRACKING/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/manishrao0312/DSA-A2Z-TRACKING/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/manishrao0312/DSA-A2Z-TRACKING/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/manishrao0312/DSA-A2Z-TRACKING/tree/master/0334-increasing-triplet-subsequence) |
 | [0485-max-consecutive-ones](https://github.com/manishrao0312/DSA-A2Z-TRACKING/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/manishrao0312/DSA-A2Z-TRACKING/tree/master/0486-predict-the-winner) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/manishrao0312/DSA-A2Z-TRACKING/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/manishrao0312/DSA-A2Z-TRACKING/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/manishrao0312/DSA-A2Z-TRACKING/tree/master/0075-sort-colors) |
+| [0283-move-zeroes](https://github.com/manishrao0312/DSA-A2Z-TRACKING/tree/master/0283-move-zeroes) |
 | [1768-merge-strings-alternately](https://github.com/manishrao0312/DSA-A2Z-TRACKING/tree/master/1768-merge-strings-alternately) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/manishrao0312/DSA-A2Z-TRACKING/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/manishrao0312/DSA-A2Z-TRACKING/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
